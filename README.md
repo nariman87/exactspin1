@@ -15,5 +15,5 @@ See usage_guides.txt in this repository.
 # Latest publications employed this package
 None.
 
-# References used to create this package
+# References used to develop this package
 None.
